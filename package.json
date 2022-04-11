@@ -1,12 +1,16 @@
 {
   "name": "rms-common",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
+  "author": "Chengcheng.ZHOU",
+  "keywords": [],
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zhouccccc/rms-common.git"
+  },
   "license": "ISC"
 }
